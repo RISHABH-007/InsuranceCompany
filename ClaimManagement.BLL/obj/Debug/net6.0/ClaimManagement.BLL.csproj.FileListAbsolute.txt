@@ -1,0 +1,17 @@
+C:\Users\risha\source\repos\ClaimManagement.BLL\bin\Debug\net6.0\ClaimManagement.BLL.deps.json
+C:\Users\risha\source\repos\ClaimManagement.BLL\bin\Debug\net6.0\ClaimManagement.BLL.dll
+C:\Users\risha\source\repos\ClaimManagement.BLL\bin\Debug\net6.0\ClaimManagement.BLL.pdb
+C:\Users\risha\source\repos\ClaimManagement.BLL\bin\Debug\net6.0\ClaimManagement.DAL.dll
+C:\Users\risha\source\repos\ClaimManagement.BLL\bin\Debug\net6.0\ClaimManagement.DAL.pdb
+C:\Users\risha\source\repos\ClaimManagement.BLL\obj\Debug\net6.0\ClaimManagement.BLL.csproj.AssemblyReference.cache
+C:\Users\risha\source\repos\ClaimManagement.BLL\obj\Debug\net6.0\ClaimManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\risha\source\repos\ClaimManagement.BLL\obj\Debug\net6.0\ClaimManagement.BLL.AssemblyInfoInputs.cache
+C:\Users\risha\source\repos\ClaimManagement.BLL\obj\Debug\net6.0\ClaimManagement.BLL.AssemblyInfo.cs
+C:\Users\risha\source\repos\ClaimManagement.BLL\obj\Debug\net6.0\ClaimManagement.BLL.csproj.CoreCompileInputs.cache
+C:\Users\risha\source\repos\ClaimManagement.BLL\obj\Debug\net6.0\ClaimManagement.BLL.csproj.CopyComplete
+C:\Users\risha\source\repos\ClaimManagement.BLL\obj\Debug\net6.0\ClaimManagement.BLL.dll
+C:\Users\risha\source\repos\ClaimManagement.BLL\obj\Debug\net6.0\refint\ClaimManagement.BLL.dll
+C:\Users\risha\source\repos\ClaimManagement.BLL\obj\Debug\net6.0\ClaimManagement.BLL.pdb
+C:\Users\risha\source\repos\ClaimManagement.BLL\obj\Debug\net6.0\ref\ClaimManagement.BLL.dll
+C:\Users\risha\source\repos\ClaimManagement.BLL\bin\Debug\net6.0\ClaimManagement.BLL.runtimeconfig.json
+C:\Users\risha\source\repos\ClaimManagement.BLL\obj\Debug\net6.0\ClaimManagement.BLL.genruntimeconfig.cache

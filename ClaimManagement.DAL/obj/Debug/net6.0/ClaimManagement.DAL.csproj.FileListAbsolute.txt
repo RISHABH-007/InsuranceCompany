@@ -1,0 +1,14 @@
+C:\Users\risha\source\repos\ClaimManagement.DAL\bin\Debug\net6.0\ClaimManagement.DAL.deps.json
+C:\Users\risha\source\repos\ClaimManagement.DAL\bin\Debug\net6.0\ClaimManagement.DAL.dll
+C:\Users\risha\source\repos\ClaimManagement.DAL\bin\Debug\net6.0\ClaimManagement.DAL.pdb
+C:\Users\risha\source\repos\ClaimManagement.DAL\obj\Debug\net6.0\ClaimManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\risha\source\repos\ClaimManagement.DAL\obj\Debug\net6.0\ClaimManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\risha\source\repos\ClaimManagement.DAL\obj\Debug\net6.0\ClaimManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\risha\source\repos\ClaimManagement.DAL\obj\Debug\net6.0\ClaimManagement.DAL.AssemblyInfo.cs
+C:\Users\risha\source\repos\ClaimManagement.DAL\obj\Debug\net6.0\ClaimManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\risha\source\repos\ClaimManagement.DAL\obj\Debug\net6.0\ClaimManagement.DAL.dll
+C:\Users\risha\source\repos\ClaimManagement.DAL\obj\Debug\net6.0\refint\ClaimManagement.DAL.dll
+C:\Users\risha\source\repos\ClaimManagement.DAL\obj\Debug\net6.0\ClaimManagement.DAL.pdb
+C:\Users\risha\source\repos\ClaimManagement.DAL\obj\Debug\net6.0\ref\ClaimManagement.DAL.dll
+C:\Users\risha\source\repos\ClaimManagement.DAL\bin\Debug\net6.0\ClaimManagement.DAL.runtimeconfig.json
+C:\Users\risha\source\repos\ClaimManagement.DAL\obj\Debug\net6.0\ClaimManagement.DAL.genruntimeconfig.cache
